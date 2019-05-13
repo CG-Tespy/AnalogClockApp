@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Analog Clock App</string>
+    <string name="clockFaceDescription">Graphic that the clock hands will be drawn on.</string>
+</resources>
